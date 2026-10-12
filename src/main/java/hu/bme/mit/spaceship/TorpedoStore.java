@@ -56,7 +56,7 @@ public class TorpedoStore {
   }
 
   public boolean isEmpty(){
-    return this.torpedoCount <= 0;
+    return this.torpedoCount <= 0;  //adding comment regarding the request to change  
   }
 
   public int getTorpedoCount() {
